@@ -41,6 +41,13 @@ Installed the AD DS role through Server Manager and promoted the server to a Dom
 
 ---
 
+**Promoting Server to Domain Controller**
+
+![Promote to DC](../screenshots/promote-dc-notification.png)
+
+Clicked the notification flag in Server Manager and promoted the server to a Domain Controller, creating a new forest.
+```
+
 **Organizational Units Structure**
 
 ![OUs in Active Directory](../screenshots/ad-ous.png)

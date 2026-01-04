@@ -31,8 +31,9 @@ Built a Windows Server domain environment to practice user management, group pol
 
 **Renamed Server and configured a static IP**
 
-![Rename & IP](../screenshots/server-vm-new-name.png)
-
+![Rename & IP](../screenshots/generic-server-name.png)
+(../screenshots/change-server-name.png)
+(../screenshots/change-server-name-dc01.png)
 **Installing Active Directory Domain Services**
 
 ![AD DS Installation](../screenshots/ad-installation.png)

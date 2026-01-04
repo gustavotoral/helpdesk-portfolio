@@ -38,7 +38,7 @@ Built a Windows Server domain environment to practice user management, group pol
 
 ![AD DS Installation](../screenshots/ad-installation.png)
 
-Installed the AD DS role through Server Manager and promoted the server to a Domain Controller for the `lab.local` forest.
+Installed the AD DS role through Server Manager and promoted the server to a Domain Controller for the `guslab.local` forest.
 
 ---
 

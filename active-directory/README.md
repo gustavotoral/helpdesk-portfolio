@@ -4,7 +4,7 @@
 Built a Windows Server domain environment to practice user management, group policies, and common Help Desk tasks.
 
 ## Environment
-- **Domain Controller:** Windows Server 2019/2022
+- **Domain Controller:** Windows Server 2022
 - **Client Machine:** Windows 10/11 Pro
 - **Virtualization:** VirtualBox / VMware
 
@@ -28,6 +28,10 @@ Built a Windows Server domain environment to practice user management, group pol
 ## Screenshots & Walkthroughs
 
 ### Infrastructure Setup
+
+**Renamed Server and configured a static IP**
+
+![Rename & IP](../screenshots/server-vm-new-name.png)
 
 **Installing Active Directory Domain Services**
 

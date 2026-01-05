@@ -6,7 +6,7 @@ Built a Windows Server domain environment to practice user management, group pol
 ## Environment
 - **Domain Controller:** Windows Server 2022
 - **Client Machine:** Windows 10/11 Pro
-- **Virtualization:** VirtualBox / VMware
+- **Virtualization:** Nested Hyper-V architecture
 
 ## Tasks Completed
 

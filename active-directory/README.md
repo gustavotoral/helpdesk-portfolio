@@ -57,7 +57,7 @@ Clicked the notification flag in Server Manager and promoted the server to a Dom
 
 ![OUs in Active Directory](../screenshots/ad-ous.png)
 
-Created OUs for IT, HR, Sales and Marketing to organize users and apply targeted Group Policies.
+Established a department-based Organizational Unit (OU) structure to facilitate the application of granular Group Policy Objects (GPOs).
 
 ---
 

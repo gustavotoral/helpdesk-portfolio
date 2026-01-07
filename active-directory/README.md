@@ -82,6 +82,12 @@ Configured account lockout thresholds to protect against brute-force attacks whi
 
 ---
 
+### The Endpoint (The CLIENT Side)
+
+**DNS Pointing**
+
+![Preferred DNS on Client Machine](../screenshots/correct-clientvm-ipconfig-setup.png)
+
 ### Troubleshooting (Real Problems I Solved)
 
 #### Problem 1: Client VM Couldn't Communicate with Domain Controller

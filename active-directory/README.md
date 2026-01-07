@@ -29,7 +29,7 @@ Built a Windows Server domain environment to practice user management, group pol
 
 ### Infrastructure Setup
 
-**Renamed Server to DCO1 and configured a static IP**
+**Identity: Renamed Server to DCO1 and configured a static IP**
 
 ![Rename & IP](../screenshots/generic-server-name.png)
 ![Rename & IP](../screenshots/change-server-name.png)

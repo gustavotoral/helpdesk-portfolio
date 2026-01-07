@@ -17,8 +17,6 @@ Built a Windows Server domain environment to practice user management, group pol
 
 ### Group Policy
 - Configured password policies
-- Deployed mapped network drives
-- Set desktop wallpaper via GPO
 
 ### Troubleshooting
 - Resolved account lockouts
@@ -29,7 +27,7 @@ Built a Windows Server domain environment to practice user management, group pol
 
 ### Infrastructure Setup
 
-**Identity: Renamed Server to DCO1 and configured a static IP**
+**Identity: Renamed Server to DC01 and configured a static IP**
 
 ![Rename & IP](../screenshots/generic-server-name.png)
 ![Rename & IP](../screenshots/change-server-name.png)

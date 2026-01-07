@@ -88,6 +88,16 @@ Configured account lockout thresholds to protect against brute-force attacks whi
 
 ![Preferred DNS on Client Machine](../screenshots/correct-clientvm-ipconfig-setup.png)
 
+Configured the correct Network Settings on the Client Machine to enable communication with the Domain Controller.
+
+### The Endpoint (The CLIENT Side)
+
+**Joined Domain**
+
+![Domain Join](../screenshots/successful-domain-join-from-client.png)
+
+Successfully joined the Client Machine to the Domain Controller.
+
 ### Troubleshooting (Real Problems I Solved)
 
 #### Problem 1: Client VM Couldn't Communicate with Domain Controller

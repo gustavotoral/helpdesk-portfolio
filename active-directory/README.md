@@ -91,6 +91,13 @@ Configured the correct Network Settings on the Client Machine to enable communic
 
 ---
 
+**Verified the Connection**
+
+![Ping Domain Controller](../screenshots/successful-dc-ping.png)
+
+Open Command Prompt on the Client and typed ping 192.168.1.10. Successful connection.
+
+
 **Joined Domain**
 
 ![Domain Join](../screenshots/successful-domain-join-from-clientvm.png)

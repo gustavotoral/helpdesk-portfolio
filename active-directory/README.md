@@ -36,7 +36,8 @@ Built a Windows Server domain environment to practice user management, group pol
 ![Rename & IP](../screenshots/change-server-name-dc01.png)
 ![Rename & IP](../screenshots/dc01-correct-ipconfig.png)
 
-Preferred DNS server: 127.0.0.1 -- This tells the server to look at itself for DNS once AD is installed. Servers must have a permanent "address" so other computers can always find them.
+Set server static IP to 192.168.1.10. Servers must have a permanent "address" so other computers can always find them.
+Preferred DNS server: 127.0.0.1 -- This tells the server to look at itself for DNS once AD is installed. 
 
 **Installing Active Directory Domain Services**
 

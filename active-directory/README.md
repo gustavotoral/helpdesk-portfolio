@@ -90,7 +90,7 @@ Configured account lockout thresholds to protect against brute-force attacks whi
 
 Configured the correct Network Settings on the Client Machine to enable communication with the Domain Controller.
 
-### The Endpoint (The CLIENT Side)
+---
 
 **Joined Domain**
 

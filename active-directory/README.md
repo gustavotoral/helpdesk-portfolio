@@ -94,7 +94,7 @@ Configured the correct Network Settings on the Client Machine to enable communic
 
 **Joined Domain**
 
-![Domain Join](../screenshots/successful-domain-join-from-client.png)
+![Domain Join](../screenshots/successful-domain-join-from-clientvm.png)
 
 Successfully joined the Client Machine to the Domain Controller.
 

@@ -91,7 +91,7 @@ Configured the correct Network Settings on the Client Machine to enable communic
 
 ---
 
-**Verified the Connection**
+**Verified the Connection** Verified end-to-end connectivity by aligning Client DNS settings with the Domain Controller's static IP
 
 ![Ping Domain Controller](../screenshots/successful-dc-ping.png)
 

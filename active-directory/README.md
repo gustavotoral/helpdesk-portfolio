@@ -64,7 +64,7 @@ Established a department-based Organizational Unit (OU) structure to facilitate 
 
 **Creating a New User in ADUC**
 
-![Adding user in ADUC](../screenshots/aduc-add-user.png)
+![Adding users in ADUC](../screenshots/new-users-it.png)
 
 Created user accounts and assigned them to appropriate OUs—a daily Help Desk task for onboarding.
 
@@ -74,6 +74,7 @@ Created user accounts and assigned them to appropriate OUs—a daily Help Desk t
 
 **Account Lockout Policy**
 
+![New GPO](../screenshots/new-gpo.png)
 ![Account lockout GPO](../screenshots/account-lockout-group-policy.png)
 
 Configured account lockout thresholds to protect against brute-force attacks while minimizing unnecessary lockouts for users.

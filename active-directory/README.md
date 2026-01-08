@@ -114,6 +114,8 @@ Successfully joined the Client Machine to the Domain Controller.
 
 ![DHCP causing subnet mismatch](../screenshots/change-auto-dhcp-clientvm.png)
 
+![Domain could not be contacted error](../screenshots/dns-error-cannjot-join-domain.png)
+
 **The Fix:** Configured a static IP on the client and pointed the DNS server to the DC's IP address (192.168.1.10).
 
 ![DNS pointing to DC](../screenshots/clientvm-dns-config.png)

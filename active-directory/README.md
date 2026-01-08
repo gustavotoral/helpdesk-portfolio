@@ -154,15 +154,15 @@ Successfully joined the Client Machine to the Domain Controller.
 **What I Did:**
 1. Logged back into the DC
 2. Opened ADUC to verify the administrator account
-3. Returned to client and successfully joined using `lab.local\Administrator`
+3. Returned to client and attempted joining domain again
 
 **Checked DC User logon name**
 
 ![ADUC DC UN](../screenshots/confirm-dc-username.png)
 
-**Password Change on First Login:**
+**Attempted to Join Domain Again**
 
-![Password change prompt](../screenshots/clientvm-login-change-pw.png)
+![Domain Join Credential Screen](../screenshots/joining-domain-attempt.png)
 
 **Lesson Learned:** Document credentials securely. In production, use a password manager or privileged access management (PAM) solution.
 

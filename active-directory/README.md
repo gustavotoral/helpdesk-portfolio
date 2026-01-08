@@ -113,6 +113,16 @@ Open Command Prompt on the Client and typed ping 192.168.1.10. Successful connec
 
 Successfully joined the Client Machine to the Domain Controller.
 
+**Successfully Logged Onto CLIENT Machine**
+
+![First domain login](../screenshots/clientvm-login-first-attempt.png)
+
+**Password Change on First Login:**
+
+![Password change prompt](../screenshots/clientvm-login-change-pw.png)
+
+**Lesson Learned:** Document credentials securely. In production, use a password manager or privileged access management (PAM) solution.
+
 ### Troubleshooting 
 
 #### Problem 1: Client VM Couldn't Communicate with Domain Controller
@@ -146,9 +156,9 @@ Successfully joined the Client Machine to the Domain Controller.
 2. Opened ADUC to verify the administrator account
 3. Returned to client and successfully joined using `lab.local\Administrator`
 
-**First Login Attempt After Join:**
+**Checked DC User logon name**
 
-![First domain login](../screenshots/clientvm-login-first-attempt.png)
+![ADUC DC UN](../screenshots/confirm-dc-username.png)
 
 **Password Change on First Login:**
 
@@ -158,5 +168,5 @@ Successfully joined the Client Machine to the Domain Controller.
 
 ## What I Learned
 - How Active Directory structures users and resources
-- Real-world Help Desk tasks like password resets and account management
+- Real-world Help Desk tasks like password resets, account management and resolving DNS Resolution failures
 - Group Policy fundamentals for managing multiple machines

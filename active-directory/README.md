@@ -104,7 +104,7 @@ Open Command Prompt on the Client and typed ping 192.168.1.10. Successful connec
 
 Successfully joined the Client Machine to the Domain Controller.
 
-### Troubleshooting (Real Problems I Solved)
+### Troubleshooting 
 
 #### Problem 1: Client VM Couldn't Communicate with Domain Controller
 
@@ -115,6 +115,10 @@ Successfully joined the Client Machine to the Domain Controller.
 ![DHCP causing subnet mismatch](../screenshots/change-auto-dhcp-clientvm.png)
 
 ![Domain could not be contacted error](../screenshots/dns-error-cannjot-join-domain.png)
+
+**Verified the Server's Identity** Opened Command Prompt inside the Server and used ipconfig /all
+
+![DC ipconfig /all](../screenshots/dc01-ipconfig-all.png)
 
 **The Fix:** Configured a static IP on the client and pointed the DNS server to the DC's IP address (192.168.1.10).
 

@@ -108,6 +108,7 @@ Open Command Prompt on the Client and typed ping 192.168.1.10. Successful connec
 
 **Joined Domain**
 
+![Join Domain Screen](../screenshots/join-domain-clientvm-screen.png)
 ![Domain Join](../screenshots/successful-domain-join-from-clientvm.png)
 
 Successfully joined the Client Machine to the Domain Controller.

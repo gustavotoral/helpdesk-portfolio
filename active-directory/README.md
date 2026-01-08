@@ -67,6 +67,10 @@ Established a department-based Organizational Unit (OU) structure to facilitate 
 
 Created user accounts and assigned them to appropriate OUs—a daily Help Desk task for onboarding.
 
+**Help Desk Scenario: Ticket #001: New Employee Onboarding**
+**Request:** Set up account for John Smith in IT department
+**Resolution:** Created user in IT OU, added to appropriate security groups, verified login on client machine
+
 ---
 
 ### Centralized Administration via Group Policy (GPO)
@@ -80,7 +84,7 @@ Configured account lockout thresholds to protect against brute-force attacks whi
 
 ---
 
-**Enfored the Update**
+**Enforced the Update**
 
 ![gpupdate](../screenshots/gpupdate-force.png)
 

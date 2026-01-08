@@ -13,7 +13,6 @@ Built a Windows Server domain environment to practice user management, group pol
 ### User Management
 - Created organizational units (OUs) for departments
 - Added user accounts and assigned to security groups
-- Performed password resets and account unlocks
 
 ### Group Policy
 - Configured password policies

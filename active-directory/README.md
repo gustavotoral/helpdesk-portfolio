@@ -21,7 +21,6 @@ Built a Windows Server domain environment to practice user management, group pol
 ### Troubleshooting
 - Resolved account lockouts
 - Fixed domain join issues
-- Diagnosed replication problems
 
 ## Screenshots & Walkthroughs
 

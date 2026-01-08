@@ -70,13 +70,21 @@ Created user accounts and assigned them to appropriate OUs—a daily Help Desk t
 
 ---
 
-### Group Policy
+### Centralized Administration via Group Policy (GPO)
 
 **Account Lockout Policy**
 
 ![Account lockout GPO](../screenshots/account-lockout-group-policy.png)
 
 Configured account lockout thresholds to protect against brute-force attacks while minimizing unnecessary lockouts for users.
+
+---
+
+**Enfored the Update**
+
+![gpupdate](../screenshots/gpupdate-force.png)
+
+Forced the client to download the new rules immediately using gpupdate /force in the Command Prompt.
 
 ---
 

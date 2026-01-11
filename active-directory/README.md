@@ -68,6 +68,7 @@ Created user accounts and assigned them to appropriate OUs—a daily Help Desk t
 
 **Help Desk Scenario: Ticket #001: New Employee Onboarding**
 **Request:** Set up account for John Smith in IT department
+
 **Resolution:** Created user in IT OU, added to appropriate security groups, verified login on client machine
 
 ---

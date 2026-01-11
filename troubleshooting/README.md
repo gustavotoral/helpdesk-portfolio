@@ -1,8 +1,8 @@
-#troubleshooting
-**Installing Active Directory Domain Services**
+# Troubleshooting
+**Password Reset**
 
-![AD DS Installation](../screenshots/ad-installation.png)
-
-Installed the AD DS role through Server Manager and promoted the server to a Domain Controller for the `guslab.local` forest.
+![AD DS Installation](../screenshots/aduc find user.png)
+![AD DS Installation](../screenshots/aduc reset pw.png)
+![AD DS Installation](../screenshots/aduc set new password.png)
 
 ---

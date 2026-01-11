@@ -4,7 +4,7 @@ Hands-on IT Support projects demonstrating troubleshooting, networking, and syst
 
 ## About Me
 
-IT Support professional passionate about solving technical problems and helping users. Currently seeking an entry-level Help Desk position where I can apply my hands-on lab experience and grow with a team.
+IT Support professional passionate about solving technical problems and helping users. Currently seeking an IT bridge role where I can leverage my sales leadership and client management experience and apply my technical support and hands-on lab experience.
 
 ## Skills
 
@@ -39,5 +39,5 @@ Used command-line tools to diagnose and resolve connectivity issues.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/gustavoatoral/
+- LinkedIn: [https://www.linkedin.com/in/gustavoatoral/](url)
 - Email: gustavoatoral@gmail.com

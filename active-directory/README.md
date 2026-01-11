@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+# Active Directory Home Lab | Completed January 2026
 
 ## Overview
 Built a Windows Server domain environment to practice user management, group policies, and common Help Desk tasks.

@@ -18,7 +18,6 @@ Built a Windows Server domain environment to practice user management, group pol
 - Configured password policies
 
 ### Troubleshooting
-- Resolved account lockouts
 - Fixed domain join issues
 
 ## Screenshots & Walkthroughs

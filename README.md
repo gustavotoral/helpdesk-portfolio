@@ -39,5 +39,5 @@ Used command-line tools to diagnose and resolve connectivity issues.
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/gustavoatoral/](url)
+- LinkedIn: **[https://www.linkedin.com/in/gustavoatoral/](url)**
 - Email: gustavoatoral@gmail.com

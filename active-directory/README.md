@@ -124,7 +124,7 @@ Successfully joined the Client Machine to the Domain Controller.
 
 ![Password change prompt](../screenshots/clientvm-login-change-pw.png)
 
-**Lesson Learned:** Document credentials securely. In production, use a password manager or privileged access management (PAM) solution.
+
 
 ### Troubleshooting 
 

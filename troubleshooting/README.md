@@ -9,9 +9,9 @@ Found the correct user on ADUC and made sure they had to change their PW at next
 ![PW Reset Step 3](../screenshots/aduc-set-new-pw.png)
 ![PW Reset Step 4](../screenshots/aduc-set-new-pw-success.png)
 
-**Confirm Clietn can Log In**
+**Confirmed Client Could Log In**
 
-Found the correct user on ADUC and made sure they had to change their PW at next logon for security purposes.
+Made sure the user could successfully log in after the password reset.
 
 ![PW Reset Step 5](../screenshots/client-vm-change-pw-login.png)
 ![PW Reset Step 6](../screenshots/client-vm-set-new-pw.png)

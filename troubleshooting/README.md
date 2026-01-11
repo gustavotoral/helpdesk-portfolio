@@ -2,10 +2,17 @@
 
 **Password Reset**
 
+Found the correct user on ADUC and made sure they had to change their PW at next logon for security purposes.
+
 ![PW Reset Step 1](../screenshots/aduc-find-user.png)
 ![PW Reset Step 2](../screenshots/aduc-reset-pw.png)
 ![PW Reset Step 3](../screenshots/aduc-set-new-pw.png)
 ![PW Reset Step 4](../screenshots/aduc-set-new-pw-success.png)
+
+**Confirm Clietn can Log In**
+
+Found the correct user on ADUC and made sure they had to change their PW at next logon for security purposes.
+
 ![PW Reset Step 5](../screenshots/client-vm-change-pw-login.png)
 ![PW Reset Step 6](../screenshots/client-vm-set-new-pw.png)
 ![PW Reset Step 7](../screenshots/client-vm-change-pw-success.png)

@@ -1,4 +1,4 @@
-# Help Desk Portfolio
+# Gustavo Toral's Help Desk Portfolio
 
 Hands-on IT Support projects demonstrating troubleshooting, networking, and system administration skills.
 

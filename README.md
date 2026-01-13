@@ -20,7 +20,7 @@ IT Support professional passionate about solving technical problems and helping 
 Set up a Windows Server domain controller and managed users, groups, and group policies.
 - [View Project](./active-directory/)
 
-### 🔧 Troubleshooting Scenarios
+### 🔧 Troubleshooting / Help Desk Ticket Scenarios
 Documented common Help Desk issues and step-by-step resolutions.
 - [View Project](./troubleshooting/)
 

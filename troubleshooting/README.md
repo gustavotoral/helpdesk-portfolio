@@ -1,5 +1,7 @@
 # Troubleshooting
 
+# Help Desk Ticket Scenario #001: User calls in saying they can't log in and need to reset their password
+
 **Password Reset**
 
 Found the correct user on ADUC and made sure they had to change their PW at next logon for security purposes.
@@ -16,3 +18,6 @@ Made sure the user could successfully log in after the password reset.
 ![PW Reset Step 5](../screenshots/client-vm-change-pw-login.png)
 ![PW Reset Step 6](../screenshots/client-vm-set-new-pw.png)
 ![PW Reset Step 7](../screenshots/client-vm-change-pw-success.png)
+
+**ALWAYS make sure user can log in. NEVER close ticket and move one**
+![PW Reset Step 8](../screenshots/client-vm-change-pw-success.png)

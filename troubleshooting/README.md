@@ -25,7 +25,6 @@ Made sure the user could successfully log in after the password reset.
 
 I only show this to prove she logged in. In a real-world scenario, I'd be confirming with the user over the phone.
 
-# Troubleshooting
 
 # Help Desk Ticket Scenario #002: User calls in saying they're locked out of their account
 

@@ -19,7 +19,8 @@ Made sure the user could successfully log in after the password reset.
 ![PW Reset Step 6](../screenshots/client-vm-set-new-pw.png)
 ![PW Reset Step 7](../screenshots/client-vm-change-pw-success.png)
 
-**ALWAYS make sure user can log in. NEVER close ticket and move one**
+**ALWAYS make sure the user can log in. NEVER close ticket and move on unless you want extra work and duplicate tickets**
+
 ![PW Reset Step 8](../screenshots/pw-reset-whoami-cmd.png)
 
 I only show this to prove she logged in. In a real-world scenario, I'd be confirming with the user over the phone.

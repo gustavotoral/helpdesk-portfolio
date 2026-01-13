@@ -31,6 +31,10 @@ I only show this to prove she logged in. In a real-world scenario, I'd be confir
 
 **Unlocking Locked Account**
 
-Made sure the user could successfully log in after the password reset.
+Find the CORRECT user on Active Directory's ADUC and tick the unlock account.
 
-![PW Reset Step 5](../screenshots/client-vm-change-pw-login.png)
+![Account Lockout 1](../screenshots/account-locked-out.png)
+![Account Lockout 2](../screenshots/aduc-unlock-account.png)
+![Account Lockout 3](../screenshots/confirm-user-account-unlocked.png)
+
+Make sure to ask if she needs the password reset or if she notices whether the CAPS LOCK was ON or she was typing the password incorrectly before ending the call.

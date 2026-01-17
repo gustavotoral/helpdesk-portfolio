@@ -42,19 +42,16 @@ Find the CORRECT user on Active Directory's ADUC and tick the unlock account.
 
 Make sure to ask if she needs the password reset or if she notices whether the CAPS LOCK was ON or she was typing the password incorrectly before ending the call.
 
-## Troubleshooting Scenario: Account Lockout
-
-### The Ticket
-**User:** Candy Spoon (APAC Department)  
-**Issue:** "I can't log in — it says my account is locked"  
-**Priority:** Medium  
-**Time to Resolution:** 4 minutes
+## Method 2: PowerShell (Faster for experienced techs)
 
 ---
 
 ### Step 1: Verify the Lockout
 
 Ran PowerShell on the Domain Controller to check account status:
+
+**Troubleshooting**: Ran into "Cannot find an object with identity:" error and had to confirm the user's correct username
+![PowerShell Error](/screenshots/power-shell-incorrect-user-troubleshooting.png)
 
 ```powershell
 Get-ADUser -Identity candy.spoon -Properties LockedOut, BadLogonCount

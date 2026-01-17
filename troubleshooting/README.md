@@ -51,7 +51,7 @@ Make sure to ask if she needs the password reset or if she notices whether the C
 Ran PowerShell on the Domain Controller to check account status:
 
 **Troubleshooting**: Ran into "Cannot find an object with identity:" error and had to confirm the user's correct username
-![PowerShell Error](/helpdesk-portfolio/screenshots/power-shell-incorrect-user-troubleshooting.png)
+![PowerShell error](../screenshots/power-shell-incorrect-user-troubleshooting.png)
 
 ```powershell
 Get-ADUser -Identity candy.spoon -Properties LockedOut, BadLogonCount
@@ -63,7 +63,7 @@ Get-ADUser -Identity candy.spoon -Properties LockedOut, BadLogonCount
 | LockedOut | True |
 | BadLogonCount | 5 |
 
-![Account locked status](/helpdesk-portfolio/screenshots/candy-locked-status.png)
+![Account locked status](../screenshots/candy-locked-status.png)
 
 The account was locked after 5 failed password attempts, which matches our Account Lockout Policy GPO (threshold: 5 attempts).
 
@@ -89,7 +89,7 @@ Get-ADUser -Identity candy.spoon -Properties LockedOut, BadLogonCount
 | LockedOut | False |
 | BadLogonCount | 0 |
 
-![Account unlocked](/helpdesk-portfolio/screenshots/candy-unlocked.png)
+![Account unlocked](../screenshots/candy-unlocked.png)
 
 ---
 

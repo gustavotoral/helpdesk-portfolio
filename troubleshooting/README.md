@@ -121,8 +121,4 @@ Search-ADAccount -LockedOut | Select Name, SamAccountName
 
 # Unlock account
 Unlock-ADAccount -Identity <username>
-
-# Check lockout source (run on DC)
-Get-WinEvent -FilterHashtable @{LogName='Security';ID=4740} | 
-    Select TimeCreated, @{N='User';E={$_.Properties[0].Value}}, @{N='Source';E={$_.Properties[1].Value}}
 ```

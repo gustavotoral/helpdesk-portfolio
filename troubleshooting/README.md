@@ -84,6 +84,7 @@ Get-ADUser -Identity candy.spoon -Properties LockedOut, BadLogonCount
 ```
 
 **Result:**
+
 | Property | Value |
 |----------|-------|
 | LockedOut | False |

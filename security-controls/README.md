@@ -33,7 +33,7 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 
 **Problem:** The Users group had Read & Execute permissions, allowing any authenticated user to access administrative tools.
 
-![Initial permissions showing Users with Read & Execute access](screenshots/preventive-01-initial-permissions.png)
+![Initial permissions showing Users with Read & Execute access](../screenshots/preventive-01-initial-permissions.png)
 
 ### Remediation Steps
 
@@ -46,14 +46,14 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 - Select "Convert inherited permissions into explicit permissions on this object"
 - This preserves existing permissions while allowing modification
 
-![Block Inheritance dialog](screenshots/preventive-02-block-inheritance.png)
+![Block Inheritance dialog](../screenshots/preventive-02-block-inheritance.png)
 
 **3. Remove Users Group**
 - Select Users (structureality\Users) entries
 - Click Remove for each Users entry
 - Apply changes
 
-![After removing Users group](screenshots/preventive-03-users-removed.png)
+![After removing Users group](../screenshots/preventive-03-users-removed.png)
 
 ### Final State (After)
 
@@ -73,13 +73,13 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 - Accessed `\\10.1.16.1\tools` successfully
 - Could open "for-authorized-use-only" file
 
-![Access successful before remediation](screenshots/preventive-04-access-before.png)
+![Access successful before remediation](../screenshots/preventive-04-access-before.png)
 
 **Test 2 - After remediation (from PC10 as standard user):**
 - Attempted to access `\\10.1.16.1\tools`
 - Received "Windows cannot access \\10.1.16.1\tools - You do not have permission to access"
 
-![Access denied after remediation](screenshots/preventive-05-access-denied.png)
+![Access denied after remediation](../screenshots/preventive-05-access-denied.png)
 
 ### Security+ Concepts Demonstrated
 

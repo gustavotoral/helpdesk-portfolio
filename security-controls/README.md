@@ -85,6 +85,13 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 
 ![Access denied after remediation](../screenshots/preventive-05-access-denied.png)
 
+**Test 3 - After remediation (from PC10 as LocalAdmin Jamie):**
+- Attempted to access `\\10.1.16.1\tools` as a LocalAdmin who should have access
+- Successfully accessed the TOOLS share
+
+![Access denied after remediation](../screenshots/preventive-05-access-denied.png)
+
+
 ### Security+ Concepts Demonstrated
 
 - **Preventive Control:** Stops unauthorized access before it occurs

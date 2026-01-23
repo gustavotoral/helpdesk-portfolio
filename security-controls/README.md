@@ -89,7 +89,12 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 - Attempted to access `\\10.1.16.1\tools` as a LocalAdmin who should have access
 - Successfully accessed the TOOLS share
 
-![Access denied after remediation](../screenshots/preventive-05-access-denied.png)
+![Access denied after remediation](../screenshots/preventive-06-verify-admin-access.png)
+
+**Troubleshooting**
+- Initially couldn't access the share via the LocalAdmin account
+- I first tried the gpupdate /force command
+- Then I went back to the Server Manager and noticed I had removed the "Everyone" option from the Share tab
 
 
 ### Security+ Concepts Demonstrated

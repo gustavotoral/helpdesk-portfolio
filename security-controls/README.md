@@ -96,6 +96,7 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 - I first tried the gpupdate /force command
 - Then I went back to the Server Manager and noticed I had removed the "Everyone" option from the Share tab
 
+![Readding "Everyone" Share Permission](../screenshots/preventive-ctrl-share-permissions.png)
 
 ### Security+ Concepts Demonstrated
 

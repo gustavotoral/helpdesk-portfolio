@@ -19,6 +19,10 @@ The C:\TOOLS folder on DC10 contains administrative utilities that should only b
 
 ### Initial State (Before)
 
+Sam, a non-admin account, has access to a share she shouldn't have access to
+
+![lab scenario](../screenshots/pre-lab-scenario.png)
+
 The TOOLS share had overly permissive NTFS permissions inherited from the parent:
 
 | Principal | Access | Inherited |

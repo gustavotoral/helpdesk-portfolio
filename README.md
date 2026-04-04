@@ -40,6 +40,7 @@ Used command-line tools to diagnose and resolve connectivity issues.
 
 - CompTIA A+
 - Network+
+- Security+
 
 ## Contact
 

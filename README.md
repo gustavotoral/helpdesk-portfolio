@@ -28,10 +28,6 @@ Documented common Help Desk issues and step-by-step resolutions.
 Documented Security labs like hardening and other security control configurations.
 - [View Project](./security-controls/)
 
-### 🎫 Ticketing System Setup
-Installed and configured osTicket to simulate real-world ticket workflows.
-- [View Project](./ticketing-system/)
-
 
 ## Certifications
 

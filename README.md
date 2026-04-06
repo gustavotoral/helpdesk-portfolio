@@ -32,9 +32,6 @@ Documented Security labs like hardening and other security control configuration
 Installed and configured osTicket to simulate real-world ticket workflows.
 - [View Project](./ticketing-system/)
 
-### 🌐 Network Troubleshooting
-Used command-line tools to diagnose and resolve connectivity issues.
-- [View Project](./networking/)
 
 ## Certifications
 

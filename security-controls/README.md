@@ -113,25 +113,6 @@ The TOOLS share had overly permissive NTFS permissions inherited from the parent
 
 3. **Verification is Critical:** Always test from an actual non-admin account to confirm the control works as intended.
 
----
-
-## Detective Controls
-
-*Coming soon*
-
----
-
-## Directive Controls
-
-*Coming soon*
-
----
-
-## Corrective Controls
-
-*Coming soon*
-
----
 
 ## Lab Environment
 
